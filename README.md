@@ -1,5 +1,5 @@
-I hold a bachelor’s degree in computing from the University of Applied Sciences in Zagreb.
+I hold a bachelor’s degree in Computing from the University of Applied Sciences in Zagreb, as well as a master’s degree in Law from the Faculty of Law in Zagreb.
 
-I have previously worked as a lawyer, gaining experience in various legal fields, including real estate and capital markets. I am interested in combining my experience in computing with my background in law.
+I previously worked as a lawyer, gaining experience across various legal fields, including real estate and capital markets. I am interested in combining my background in law with my skills in computing.
 
-My primary interests include cybersecurity, data analytics, web applications and embedded systems. I am also a keen windsurfer and cyclist.
+My primary interests include cybersecurity, data analytics, web applications and embedded systems.
